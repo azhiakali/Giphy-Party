@@ -1,0 +1,29 @@
+body {
+    background-color: #000000;
+}
+
+h1 {
+    color: orchid;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder ;
+}
+
+img {
+    margin: 20px 20px;
+}
+
+.formContainer {
+    width: 75%;;
+}
+
+#removeButton {
+    color: #f0baba;
+    border: 3px solid #f0baba;
+    background-color: #b30000;
+}
+
+#searchButton {
+    color: darkseagreen;
+    border: 3px solid darkseagreen;
+    background-color: darkgreen;
+}
